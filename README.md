@@ -11,49 +11,49 @@
 ## 软件截图：
 - 音乐详情界面
 ![image](https://user-images.githubusercontent.com/70871914/204016386-8b4b57d0-cc0a-4d69-9750-eeb2faaeab39.png)
-![image](https://user-images.githubusercontent.com/70871914/198876047-956be641-f115-40be-8958-ca20e25f664e.png)
-![image](https://user-images.githubusercontent.com/70871914/198876064-ed192849-ab63-481d-b1f1-80768928fb7d.png)
-![image](https://user-images.githubusercontent.com/70871914/198876077-7f24aed8-f83d-4189-b7d4-afc2cd3fab38.png)
-![image](https://user-images.githubusercontent.com/70871914/198876086-d3e9ac2c-a04f-4feb-9ed4-6dda0163a19e.png)
+![image](https://user-images.githubusercontent.com/70871914/204016693-937e5f0c-7733-4462-b53c-23a5220b4a65.png)
+![image](https://user-images.githubusercontent.com/70871914/204016772-ce169b83-8108-4253-a0ac-f88aa82e3233.png)
+![image](https://user-images.githubusercontent.com/70871914/204016878-85fa24a4-89fe-419e-8346-a92989a0c011.png)
+![image](https://user-images.githubusercontent.com/70871914/204017000-d0c08f18-6781-4670-a7ff-fc23da2f2db5.png)
 
 - 主界面
-![image](https://user-images.githubusercontent.com/70871914/198876113-4e097d37-4b0b-4a91-b1b1-bd6c4079d306.png)
+![image](https://user-images.githubusercontent.com/70871914/204017124-2a479c3a-7ff0-42b8-bc83-55b5355e83b5.png)
 
 - 音乐搜索
-![image](https://user-images.githubusercontent.com/70871914/198876143-2da0a217-49ca-4610-9911-15bcc85cb314.png)
+![image](https://user-images.githubusercontent.com/70871914/204017297-444ea5f4-626b-4d57-a21c-17f2e9513b84.png)
 
 - 歌单搜索与查看
-![image](https://user-images.githubusercontent.com/70871914/198876156-d412534c-8a1c-4d2a-bc1e-38a4bc32f65f.png)
-![image](https://user-images.githubusercontent.com/70871914/198876168-84ff21be-f221-4cdc-bca4-fc5f010a370d.png)
+![image](https://user-images.githubusercontent.com/70871914/204017485-4f2d3975-1ae6-4787-bea0-5ae871164f09.png)
+![image](https://user-images.githubusercontent.com/70871914/204017518-7a0949d3-172f-4701-9447-2d2e82f05275.png)
 
 - 专辑搜索与查看
-![image](https://user-images.githubusercontent.com/70871914/198876187-a78be9d4-4d6f-4744-834e-78f5f3710f4c.png)
-![image](https://user-images.githubusercontent.com/70871914/198876194-07d84fb3-b0dd-4db1-b55e-a498623004f7.png)
+![image](https://user-images.githubusercontent.com/70871914/204017651-f1951c0e-ab00-4dfa-9655-1d5d6d2a42f5.png)
+![image](https://user-images.githubusercontent.com/70871914/204017681-1d857df4-db32-40a5-ad4c-bf7a68ba9e13.png)
 
 - 歌手搜索与查看
-![image](https://user-images.githubusercontent.com/70871914/198876206-d7e08140-c324-4de2-bf89-6187fc54bb48.png)
-![image](https://user-images.githubusercontent.com/70871914/198876213-fb41daa8-7260-4aeb-951e-ac4662060fdc.png)
+![image](https://user-images.githubusercontent.com/70871914/204017848-ed4aa124-486c-4e93-a43e-e1a835d0ee3d.png)
+![image](https://user-images.githubusercontent.com/70871914/204017867-b74fa865-e7c7-497b-9bf8-5fc651af4a7b.png)
 
 - 电台搜索与查看
-![image](https://user-images.githubusercontent.com/70871914/198876244-b7181d11-b9ea-45a4-a6bb-da33cfd097bb.png)
-![image](https://user-images.githubusercontent.com/70871914/198876249-15b1f90c-80a9-4876-98f9-89cf5660e00f.png)
+![image](https://user-images.githubusercontent.com/70871914/204017956-3a5c706d-7a65-431b-a324-1902ccd4d796.png)
+![image](https://user-images.githubusercontent.com/70871914/204017997-b20f369b-f4ce-42c6-9fbd-84cfdab6859d.png)
 
 - MV 搜索与观看
-![image](https://user-images.githubusercontent.com/70871914/198876285-6055ab49-4a54-49ff-aff1-e89d1344feb9.png)
-![image](https://user-images.githubusercontent.com/70871914/198876297-a0f82d8c-0b49-466a-8707-b85465ead468.png)
+![image](https://user-images.githubusercontent.com/70871914/204018086-c1ab0e30-b1f4-4dda-815b-7f552e3448a1.png)
+![image](https://user-images.githubusercontent.com/70871914/204018170-d4c3790c-9b4c-40ef-8d88-410d3f8fa871.png)
 
 - 榜单
-![image](https://user-images.githubusercontent.com/70871914/198876313-e2abf9ee-855f-4d45-92d9-39aa2d461660.png)
+![image](https://user-images.githubusercontent.com/70871914/204018343-2a423ebc-dbee-48ed-907a-278dc533606c.png)
 
 - 用户搜索与查看
-![image](https://user-images.githubusercontent.com/70871914/198876346-1123b751-eb48-49bd-89d7-20a77cb92816.png)
-![image](https://user-images.githubusercontent.com/70871914/198876391-85eb0262-c548-4e6b-aae1-6dab547a5fe9.png)
+![image](https://user-images.githubusercontent.com/70871914/204018616-4481d9d9-5312-4ca1-af8e-eab1b49907ae.png)
+![image](https://user-images.githubusercontent.com/70871914/204018635-8eca3b35-98b9-4deb-9ffc-b520db57975f.png)
 
 - 推荐模块
-![image](https://user-images.githubusercontent.com/70871914/198876412-4be55065-1fe5-4400-9d4a-f65dfe045054.png)
+![image](https://user-images.githubusercontent.com/70871914/204018704-5ed17a34-2406-4dfe-a1eb-fa5a449b6ef1.png)
 
 - 下载管理
-![image](https://user-images.githubusercontent.com/70871914/198876426-47eea68a-a951-4c40-a781-c457970f055f.png)
+![image](https://user-images.githubusercontent.com/70871914/204018782-cdce8754-b4bf-4510-9f89-119aec6beff4.png)
 
 - 播放列表
-![image](https://user-images.githubusercontent.com/70871914/198876433-e69b718f-84bc-4ea9-9cca-3708b8b47b5b.png)
+![image](https://user-images.githubusercontent.com/70871914/204018855-4f604540-77b1-4368-9c06-f10f31255b1c.png)
