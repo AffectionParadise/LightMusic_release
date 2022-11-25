@@ -10,6 +10,7 @@
 
 ## 软件截图：
 - 音乐详情界面
+![image](https://user-images.githubusercontent.com/70871914/204016386-8b4b57d0-cc0a-4d69-9750-eeb2faaeab39.png)
 ![image](https://user-images.githubusercontent.com/70871914/198876047-956be641-f115-40be-8958-ca20e25f664e.png)
 ![image](https://user-images.githubusercontent.com/70871914/198876064-ed192849-ab63-481d-b1f1-80768928fb7d.png)
 ![image](https://user-images.githubusercontent.com/70871914/198876077-7f24aed8-f83d-4189-b7d4-afc2cd3fab38.png)
